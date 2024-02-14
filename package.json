@@ -1,0 +1,17 @@
+{
+  "name": "vite-workspaces-issue",
+  "scripts": {
+    "dev": "yarn workspace app run dev"
+  },
+  "workspaces": [
+    "app",
+    "shared"
+  ],
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependenciesMeta": {
+    "vite@5.1.0-beta.4": {
+      "unplugged": true
+    }
+  }
+}

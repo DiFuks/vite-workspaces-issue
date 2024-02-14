@@ -1,0 +1,13 @@
+{
+  "name": "app",
+  "type": "module",
+  "packageManager": "yarn@4.1.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "react": "^18.2.0",
+    "shared": "workspace:*",
+    "vite": "5.1.0-beta.4"
+  }
+}

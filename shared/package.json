@@ -1,0 +1,7 @@
+{
+  "name": "shared",
+  "main": "index.ts",
+  "peerDependencies": {
+    "react": ">=18.2.0"
+  }
+}
